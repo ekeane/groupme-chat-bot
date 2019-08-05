@@ -1,7 +1,7 @@
 {
-  "name": "Cool guy bot",
-  "description": "Basic Groupme Bot written in Node",
-  "repository": "https://github.com/petemcgrath/cool-guy-bot",
+  "name": "Brother Bam",
+  "description": "Groupme Bot for the boys",
+  "repository": "https://github.com/ekeane/groupme-chat-bot",
   "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
   "keywords": []
 }
