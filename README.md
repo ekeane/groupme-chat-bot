@@ -1,2 +1,2 @@
-# groupe-chat-bot
+# groupme chat bot
 Groupme Chat Bot for group chats with my friends.
